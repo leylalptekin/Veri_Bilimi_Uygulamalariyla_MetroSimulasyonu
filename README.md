@@ -3,7 +3,7 @@
 Bu proje, bir metro ağı simülasyonu oluşturmayı hedefler ve Tkinter tabanlı bir kullanıcı arayüzü sunar. Uygulama, kullanıcıların belirli istasyonlar arasında en hızlı ve en az aktarmalı rotaları bulmalarına olanak tanır.
     
 ---    
- 
+  
 ## Özellikler  
  
 - **En Az Aktarmalı Rota**: Breadth-First Search (BFS) algoritması ile uygulanmıştır.
