@@ -10,7 +10,7 @@ Bu proje, bir metro ağı simülasyonu oluşturmayı hedefler ve Tkinter tabanl�
 - **En Hızlı Rota**: A* (A-Star) algoritması ile optimize edilmiştir.
 - **Favori Rotalar**: Kullanıcıların en beğendikleri rotaları kaydedip görüntüleme imkanı sunar.
 - **Kullanıcı Dostu Arayüz**: Tkinter tabanlı, modern ve kullanıcı dostu bir arayüz ile desteklenmiştir.
-
+ 
 ---
 
 ## Kullanılan Teknolojiler ve Araçlar
