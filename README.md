@@ -4,7 +4,7 @@ Bu proje, bir metro ağı simülasyonu oluşturmayı hedefler ve Tkinter tabanl�
     
 ---    
  
-## Özellikler
+## Özellikler 
  
 - **En Az Aktarmalı Rota**: Breadth-First Search (BFS) algoritması ile uygulanmıştır.
 - **En Hızlı Rota**: A* (A-Star) algoritması ile optimize edilmiştir.
